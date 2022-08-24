@@ -4,9 +4,9 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/1maka3">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=1maka3&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1maka3&theme=dracula&hide_border=false&&layout=compact"/>
+  <a href="https://github.com/luan010z">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=luan010z&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luan010z&theme=dracula&hide_border=false&&layout=compact"/>
   </a>
 </div>
 
@@ -14,9 +14,6 @@
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="github" height="35" width="35" src="/assets/GitHub.png">
-<!--   <img align="center" alt="github" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"> -->
-  <img align="center" alt="linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
 </div><br>
 
 <div align="center">
