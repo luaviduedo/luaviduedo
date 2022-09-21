@@ -1,5 +1,5 @@
 <div>
-  <h1 align="center">Oi. Tudo bem? Eu sou o <a href="https://luan010z.github.io/NLW-esports-explorer/"><i>Luã Viduedo</i></a> 😃️</h1>
+  <h1 align="center">Oi. Tudo bem? Eu sou o <a target="_blank" href="https://luan010z.github.io/NLW-esports-explorer/"><i>Luã Viduedo</i></a> 😃️</h1>
   <p align="center">Tenho 20 anos, estudo engenharia de software na Estácio, estou atualmente no 4° periodo.
 <br>Tenho uma grande vontade de me tornar um progamador fullstack e um game dev.<a>
 </div>
