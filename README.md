@@ -1,6 +1,6 @@
 <div>
   <h1 align="center">Oi. Tudo bem? Eu sou o <a target="_blank" href="https://luan010z.github.io/NLW-esports-explorer/"><i>Luã Viduedo</i></a> 😃️</h1>
-  <p align="center">Sou formado em Engenharia de Software e estou em busca de uma oportunidade profissional como desenvolvedor. Tenho experiência prática com Node.js, React e TypeScript, adquirida por meio de projetos pessoais, estudos direcionados e constante prática.
+  <p align="center">Sou formado em Engenharia de Software e estou em busca de uma oportunidade profissional como desenvolvedor. Minhas principais tecnologias são: Node.js, React e TypeScript, adquirida por meio de projetos freelancer e pessoais, estudos e constante prática.
 
 Meu objetivo profissional é dominar as habilidades necessárias para atuar com excelência no desenvolvimento full stack, compreendendo profundamente tanto o front-end quanto o back-end, e entregando soluções modernas, escaláveis e bem estruturadas.
 </div>
