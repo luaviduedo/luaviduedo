@@ -6,7 +6,7 @@ Meu objetivo profissional é dominar as habilidades necessárias para atuar com 
 </div>
 
 <div align="center">
-  <a href="https://github.com/luan010z">
+  <a href="https://github.com/luaviduedo">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=luan010z&count_private=true&include_all_commits=true&show_icons=true&theme=midnight-purple&hide_border=false&show_owner=true"/>
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luan010z&theme=midnight-purple&hide_border=false&&layout=compact"/>
   </a>
@@ -29,10 +29,6 @@ Meu objetivo profissional é dominar as habilidades necessárias para atuar com 
 
 <div align="center">
   
-  ![Snake animation](https://github.com/luan010z/luan010z/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/luaviduedo/luan010z/blob/output/github-contribution-grid-snake.svg)
   
-</div>
-
-<div align="center">
-  <p>Feito com ❤️ e JavaScript.</p>
 </div>
