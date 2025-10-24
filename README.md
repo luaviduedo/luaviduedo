@@ -29,6 +29,6 @@ eficientes e escaláveis.
 
 <div align="center">
   
-  ![Snake animation](https://github.com/luaviduedo/luan010z/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/luaviduedo/luaviduedo/blob/output/github-contribution-grid-snake.svg)
   
 </div>
