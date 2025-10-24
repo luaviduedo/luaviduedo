@@ -1,6 +1,6 @@
 <div>
   <h1 align="center">Oi. Tudo bem? Eu sou o <a target="_blank" href="https://luaviduedo.github.io/NLW-esports-explorer/"><i>Luã Viduedo</i></a> 😃️</h1>
-  <p align="center">Sou desenvolvedor com 2 anos de experiência. Atuei tanto no front-end quanto no
+  <p align="center">Sou desenvolvedor com 1 anos de experiência. Atuei tanto no front-end quanto no
 back-end e também desenvolvi pequenos jogos. Atualmente, estou focado em backend, buscando evoluir continuamente minhas habilidades e contribuir em soluções
 eficientes e escaláveis.
 </div>
