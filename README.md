@@ -37,7 +37,7 @@ eficientes e escaláveis.
   />
 
   <img
-    alt="Snake animation"
+    alt="github contribution grid snake animation"
     src="https://raw.githubusercontent.com/luaviduedo/luaviduedo/output/github-contribution-grid-snake.svg"
   />
 </picture>
