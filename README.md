@@ -25,6 +25,14 @@ eficientes e escaláveis.
   <a href="mailto:luaviduedo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=luaviduedo&theme=github_dark" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=luaviduedo&theme=github_dark" />
+
+</div>
+
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
