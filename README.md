@@ -25,19 +25,18 @@ eficientes e escaláveis.
   <a href="mailto:luaviduedo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/luaviduedo/luaviduedo/output/github-contribution-grid-snake-dark.svg"
-  />
+<div align="center">
 
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/luaviduedo/luaviduedo/output/github-contribution-grid-snake.svg"
-  />
+<img
+  class="gh-dark-mode-only"
+  src="https://raw.githubusercontent.com/luaviduedo/luaviduedo/output/github-contribution-grid-snake-dark.svg"
+  alt="GitHub Contribution Snake"
+/>
 
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/luaviduedo/luaviduedo/output/github-contribution-grid-snake.svg"
-  />
-</picture>
+<img
+  class="gh-light-mode-only"
+  src="https://raw.githubusercontent.com/luaviduedo/luaviduedo/output/github-contribution-grid-snake.svg"
+  alt="GitHub Contribution Snake"
+/>
+
+</div>
