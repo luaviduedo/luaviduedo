@@ -28,16 +28,16 @@ eficientes e escaláveis.
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://github.com/luaviduedo/luaviduedo/blob/output/github-contribution-grid-snake-dark.svg"
+    srcset="https://raw.githubusercontent.com/luaviduedo/luaviduedo/output/github-contribution-grid-snake-dark.svg"
   />
 
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://github.com/luaviduedo/luaviduedo/blob/output/github-contribution-grid-snake.svg"
+    srcset="https://raw.githubusercontent.com/luaviduedo/luaviduedo/output/github-contribution-grid-snake.svg"
   />
 
   <img
-    alt="github contribution grid snake animation"
-    src="https://github.com/luaviduedo/luaviduedo/blob/output/github-contribution-grid-snake.svg"
+    alt="Snake animation"
+    src="https://raw.githubusercontent.com/luaviduedo/luaviduedo/output/github-contribution-grid-snake.svg"
   />
 </picture>
