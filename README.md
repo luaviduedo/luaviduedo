@@ -7,8 +7,6 @@ eficientes e escaláveis.
 
 <div align="center">
   <a href="https://github.com/luaviduedo">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=luaviduedo&count_private=true&include_all_commits=true&show_icons=true&theme=midnight-purple&hide_border=false&show_owner=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luaviduedo&theme=midnight-purple&hide_border=false&&layout=compact"/>
   </a>
 </div>
 
@@ -27,4 +25,19 @@ eficientes e escaláveis.
   <a href="mailto:luaviduedo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
-![Snake animation](https://github.com/luaviduedo/luaviduedo/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github.com/luaviduedo/luaviduedo/blob/output/github-contribution-grid-snake-dark.svg"
+  />
+
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://github.com/luaviduedo/luaviduedo/blob/output/github-contribution-grid-snake.svg"
+  />
+
+  <img
+    alt="github contribution grid snake animation"
+    src="https://github.com/luaviduedo/luaviduedo/blob/output/github-contribution-grid-snake.svg"
+  />
+</picture>
